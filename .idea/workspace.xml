@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0980db4-0f49-4583-8039-803089992aba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gb-studio-docs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/assets/backgrounds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/assets/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/assets/music/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/assets/music/music-gbt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/assets/music/music-huge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/assets/sound-effects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/assets/sprites.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/assets/ui-elements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/build.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/extending-gbstudio/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/extending-gbstudio/engine-eject.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/getting-started/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/getting-started/keyboard-shortcuts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/getting-started/saving-loading.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/installation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/migrate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/project-editor/actors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/project-editor/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/project-editor/player.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/project-editor/scenes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/project-editor/triggers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/custom-scripts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/actor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/camera.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/color.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/control-flow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/dialogue-menus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/engine-fields.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/input.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/math.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/miscellaneous.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/music-sound-effects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/save-data.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/scene.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/screen.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/timer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/scripting/script-glossary/variables.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-docs/current/settings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr/docusaurus-plugin-content-pages/error.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2cAs4t63SI3klzQSBAfdZTpNara" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/phmatray/Repositories/github/gb-studio-docs/i18n",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/i18n" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0980db4-0f49-4583-8039-803089992aba" name="Changes" comment="" />
+      <created>1707565530357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707565530357</updated>
+      <workItem from="1707565533065" duration="526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
